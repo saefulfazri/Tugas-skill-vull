@@ -1,0 +1,14 @@
+Perhatikan contoh di bawah ini:
+
+<p id="demo">JavaScript HTML DOM</p>
+
+Di bawah ini adalah cara mengubah teks di dalam element <p> menjadi biru, kecuali
+
+
+A. document.getElementById('demo').style.color = 'blue';
+
+B. document.getElementsByTagName('p').style = "color: blue;";
+
+C. document.getElementById('demo').setAttribute("style", "color: blue;");
+
+jawab : B. document.getElementsByTagName('p').style = "color: blue;";

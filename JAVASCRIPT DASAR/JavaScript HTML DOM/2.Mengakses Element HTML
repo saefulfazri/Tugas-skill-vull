@@ -1,0 +1,17 @@
+Perhatikan contoh di bawah ini:
+
+<!-- html -->
+<h1 id="demo">Hello, World!</h1>
+<h1 class="header">Mari belajar JavaScript</h1>
+<h1 class="subheader">Di Skilvul</h1>
+
+Di bawah ini merupakan cara yang benar untuk mengakses element <h1 class="header">Mari belajar JavaScript</h1>, kecuali:
+
+
+A. document.getElementsByTagName('h1')[1]
+
+B. document.querySelectorAll('h1.header')
+
+C. document.getElementsByClassName('header')[0]
+
+jawab : B. document.querySelectorAll('h1.header')
