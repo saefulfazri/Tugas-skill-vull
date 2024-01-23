@@ -1,0 +1,13 @@
+Perhatikan array di bawah ini:
+
+let hewan = ['Kucing', 'Jerapah', 'Gajah'];
+Berdasarkan array di atas, pernyataan berikut yang benar adalah:
+
+
+A. Kucing berada pada index ke 1, dan length dari hewan adalah 3
+
+B. Jerapah berada pada index ke 1 dan Gajah berada pada index ke 2
+
+C. Array length hewan adalah 2
+
+jawab : B. Jerapah berada pada index ke 1 dan Gajah berada pada index ke 2
