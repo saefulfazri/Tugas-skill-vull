@@ -1,0 +1,27 @@
+Apakah yang akan ditampilkan di tab console setelah kode di bawah ini dijalankan?
+
+
+const browser = "firefox";
+
+switch (browser) {
+  case "edge":
+    console.log("Browser Anda tidak mendukung aplikasi ini");
+    break;
+  case "chrome":
+  case "firefox":
+  case "safari":
+    console.log("Browser Anda mendukung aplikasi ini");
+    break;
+  default:
+    console.log("Semoga tampilan aplikasi ini cukup baik");
+}
+
+
+
+A. "Browser Anda mendukung aplikasi ini"
+
+B. "Browser Anda tidak mendukung aplikasi ini"
+
+C. "Semoga tampilan aplikasi ini cukup baik"
+
+jawab : A. "Browser Anda mendukung aplikasi ini"
