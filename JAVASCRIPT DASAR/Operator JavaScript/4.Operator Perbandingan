@@ -1,0 +1,15 @@
+Isilah titik-titik di bawah ini dengan operator perbandingan yang benar!
+
+let x = 3;
+let comparison = x ... '3';
+
+console.log(comparison); // Output: true
+
+
+A. ==
+
+B. +=
+
+C. ===
+
+jawab : C. ===
