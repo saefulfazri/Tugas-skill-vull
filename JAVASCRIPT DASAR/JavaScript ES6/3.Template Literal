@@ -1,0 +1,12 @@
+Manakah penggunaan template literal yang benar sesuai kode di bawah ini?
+
+let name = "Andi";
+let food = "apel";
+
+A. console.log('${Andi} makan ${pisang}');
+
+B. console.log(`${name} makan ${food}`);
+
+C. console.log("${name} makan ${food}");
+
+jawab : B. console.log(`${name} makan ${food}`);

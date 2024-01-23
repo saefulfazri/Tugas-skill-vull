@@ -1,0 +1,15 @@
+Manakah destrukturisasi yang benar untuk objek di bawah ini?
+
+let human = {
+  name: 'Sarah',
+  age: 24,
+  address: 'Jakarta'
+};
+
+A. let name, age, address = human;
+
+B. let {human} = name, age, address;
+
+C. let {name, age, address} = human;
+
+jawab : C. let {name, age, address} = human;

@@ -1,0 +1,14 @@
+let carBrand = 'Toyota';
+let carType = 'SUV';
+let carYear = 2015;
+
+Cara mendeklarasikan objek car yang benar dengan nilai properti dari variabel-variabel di atas adalah:
+
+
+A. let car = { carBrand, carType, carYear };
+
+B. let { car } = carBrand, carType, carYear;
+
+C. let car = carBrand, carType, carYear;
+
+jawab : A. let car = { carBrand, carType, carYear };

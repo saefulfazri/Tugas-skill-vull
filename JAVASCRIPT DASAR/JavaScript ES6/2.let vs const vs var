@@ -1,0 +1,17 @@
+Pilihlah opsi untuk melengkapi potongan kode di bawah sehingga hasilnya sesuai dengan output yang diberikan.
+
+// lengkapi baris ini
+...;
+
+nama = "Rizky";
+
+console.log(nama); // Output: Error
+
+
+A. var nama = "Gavin"
+
+B. let nama = "Gavin"
+
+C. const nama = "Gavin"
+
+jawab : C. const nama = "Gavin"

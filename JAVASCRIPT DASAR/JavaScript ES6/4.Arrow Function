@@ -1,0 +1,10 @@
+Cara yang benar untuk menulis sebuah fungsi bernama greeting dengan arrow function yang mengembalikan string berupa "Halo Semua!" adalah
+
+
+A. let greeting = () => "Halo Semua!";
+
+B. const greeting = => "Halo Semua!";
+
+C. var greeting() => "Halo Semua!";
+
+jawab : A. let greeting = () => "Halo Semua!";
