@@ -1,0 +1,18 @@
+Kita memiliki objek seperti di bawah ini:
+
+const human = {
+  name: 'sarah',
+  job: 'teacher',
+  age: 24
+};
+
+Di bawah ini adalah cara mengakses properti name yang benar, kecuali:
+
+
+A. human.name
+
+B. human['name']
+
+C. human[name]
+
+jawab : C. human[name]
