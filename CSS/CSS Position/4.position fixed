@@ -1,0 +1,10 @@
+Berikut ini adalah pernyataan yang benar tentang position: fixed, kecuali:
+
+
+A .Menampilkan element relatif dari viewport
+
+B. Element akan berpindah posisi jika halaman browser di-scroll
+
+C. Posisi fixed bisa terpengaruh oleh properti top, bottom, right, dan left
+
+jawab : B. Element akan berpindah posisi jika halaman browser di-scroll

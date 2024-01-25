@@ -1,0 +1,14 @@
+Ada sebuah element <div> dengan latar belakang merah dengan tinggi dan lebar sebesar 100px.
+
+<div style="width: 100px; height: 100px; background: red;"></div>
+
+Apa yang akan terjadi jika kita menambahkan properti top: 50px; ke dalam attribute style <div> di atas?
+
+
+A. Element <div> akan bergeser ke bawah sejauh 50px dari posisi normalnya.
+
+B. Element <div> akan bergeser ke atas sejauh 50px dari posisi normalnya.
+
+C. Element <div> tetap pada posisinya seperti semula.
+
+jawab : C. Element <div> tetap pada posisinya seperti semula.
