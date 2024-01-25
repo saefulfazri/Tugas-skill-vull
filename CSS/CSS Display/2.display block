@@ -1,0 +1,99 @@
+Dalam sebuah situs web, tidak jarang ada menu navigasi yang muncul dari samping (sidebar). Kali ini kalian akan mencoba membuatnya.
+
+Diberikan sebuah kode HTML sebagai berikut
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>CSS Display</title>
+  </head>
+  <style>
+    div * {
+      border-bottom: 1px solid white;
+      background: lightgrey;
+    }
+  </style>
+  <body>
+    <div>
+      <span class="heading">Pelatihan</span>
+      <span class="subheading">Kurikulum</span>
+      <span class="subheading">Materi</span>
+      <span class="subheading">Lokasi</span>
+    </div>
+    <div>
+      <span class="heading">Perusahaan</span>
+      <span class="subheading">Tim</span>
+      <span class="subheading">Visi dan Misi</span>
+    </div>
+  </body>
+</html>
+Dengan output seperti ini
+
+
+Seperti yang kalian lihat, hasilnya belum menyerupai sebuah sidebar sama sekali. Kode CSS apa yang harus ditambahan ke dalam tag <style> agar hasilnya lebih menyerupai gambar di bawah?
+
+
+
+A
+.heading {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.subheading {
+  display: block;
+  padding-left: 30px;
+}
+
+span {
+  padding: 10px;
+}
+
+B
+.heading {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.subheading {
+  padding-left: 30px;
+}
+
+span {
+  padding: 10px;
+  display: block;
+}
+
+
+
+
+c.div > .heading {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+div > .subheading {
+  padding-left: 30px;
+}
+
+div > p {
+  padding: 10px;
+  display: block;
+}
+
+---jawab : 
+
+B
+.heading {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.subheading {
+  padding-left: 30px;
+}
+
+span {
+  padding: 10px;
+  display: block;
+}

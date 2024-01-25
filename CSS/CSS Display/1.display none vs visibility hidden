@@ -1,0 +1,13 @@
+Ada kasus di mana pemilik situs web menyediakan form yang hanya bisa di-submit apabila semua kotak input telah diisi oleh pengunjung situs web-nya.
+
+Properti CSS apa yang harus ditambahkan pada tombol "Submit" untuk menghilangkannya seperti pada gambar pertama di bawah jika pengunjung belum lengkap mengisi kotak inputnya?
+
+
+
+A. display: none;
+
+B. display: hidden;
+
+C. visibility: hidden;
+
+jawab : C. visibility: hidden;
