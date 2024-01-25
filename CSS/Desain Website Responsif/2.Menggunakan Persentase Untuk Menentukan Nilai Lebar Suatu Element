@@ -1,0 +1,10 @@
+Apakah arti width: 80%?
+
+
+A. Element akan memiliki lebar sebesar 80% dari ukuran lebar aslinya
+
+B. Element akan memiliki lebar sebesar 80% dari parent element
+
+C. Element akan memiliki lebar sebesar 80% dari viewport
+
+jawab : B. Element akan memiliki lebar sebesar 80% dari parent element

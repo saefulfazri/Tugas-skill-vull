@@ -1,0 +1,11 @@
+Ubahlah ukuran gambar di bawah ini agar lebarnya menjadi 100% dari viewport ketika lebar viewport di bawah 400px.
+
+<img src="cat.jpg" alt="cat" />
+
+A. @media (max-width: 400px) { width: 100%; }
+
+B. img (max-width: 400px) { width: 100%; }
+
+C. @media (max-width: 400px) { img { width: 100%; } }
+
+jawab : C. @media (max-width: 400px) { img { width: 100%; } }

@@ -1,0 +1,10 @@
+Apakah arti dari max-width: 100%;?
+
+
+A. Element akan memiliki lebar sebesar 100% dari ukuran aslinya.
+
+B. Element akan memiliki lebar sebesar 100% dari viewport, mengabaikan ukuran maksimal aslinya
+
+C. Element akan memiliki lebar maksimum sebesar 100% dari parent element, namun jika ukuran maksimal aslinya tidak selebar parent elementnya, maka akan menampilkan ukuran maksimal aslinya
+
+jawab : C. Element akan memiliki lebar maksimum sebesar 100% dari parent element, namun jika ukuran maksimal aslinya tidak selebar parent elementnya, maka akan menampilkan ukuran maksimal aslinya
