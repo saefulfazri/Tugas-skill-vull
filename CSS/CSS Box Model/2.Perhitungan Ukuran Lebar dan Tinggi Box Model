@@ -1,0 +1,10 @@
+Pernyataan berikut ini adalah benar, kecuali:
+
+
+A. Urutan bagian yang benar dari box model dari luar ke dalam adalah margin, border, padding, konten.
+
+B. Perhitungan lebar box model adalah jumlah dari penambahan padding kanan dan kiri, border kanan dan kiri, dan margin kanan dan kiri.
+
+C. Apabila padding, margin dan border dari sebuah HTML element adalah 0, maka lebar box model dari HTML element tersebut sama dengan lebar kontennya.
+
+jawab : B. Perhitungan lebar box model adalah jumlah dari penambahan padding kanan dan kiri, border kanan dan kiri, dan margin kanan dan kiri.

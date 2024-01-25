@@ -1,0 +1,20 @@
+Lengkapi kode berikut agar lebar box element <div> hanya dihitung dari jumlah dari lebar konten, lebar padding kanan dan kiri dan lebar border kanan dan kiri:
+
+<div>
+  <p>Hello World</p>
+</div>
+div {
+  padding-left: 10px;
+  padding-right: 10px;
+  border-left: 2px solid black;
+  border-right: 2px solid black;
+  ........: ........;
+}
+
+A. box-sizing: border-box;
+
+B. border-box: box-sizing;
+
+C. border-size: border-box;
+
+jawab : B. border-box: box-sizing;
