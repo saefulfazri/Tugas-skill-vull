@@ -1,0 +1,12 @@
+Selector di bawah ini bisa memberikan style pada element <p> yang kedua, kecuali:
+
+   <p>Halo, selamat datang!</p>
+   <p>Silahkan scroll ke bawah untuk info lebih lanjut</p>
+
+A. p:nth-child(2) { color: red; }
+
+B. p:nth-child(odd) { color: red; }
+
+C. p:nth-last-child(1) { color: red; }
+
+jawab : B. p:nth-child(odd) { color: red; }

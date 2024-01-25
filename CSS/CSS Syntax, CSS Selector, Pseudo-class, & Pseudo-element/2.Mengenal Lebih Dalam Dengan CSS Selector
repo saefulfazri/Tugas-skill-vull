@@ -1,0 +1,10 @@
+Berikut ini adalah cara menulis CSS selector yang benar, kecuali....
+
+
+A. input{type="text"}
+
+B. input[type="text"]
+
+C. input[type=text]
+
+jawab : A. input{type="text"}
