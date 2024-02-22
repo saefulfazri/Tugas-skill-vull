@@ -3,7 +3,7 @@ let genap = [];
 
 // Tulis kode kalian di bawah ini
 
-for (let i = 1; 1 < angka.length; i++) {
+for (let i = 1; i < angka.length; i++) {
   if (angka[i] % 2 == 0) {
     genap.push(angka[i]);
   }
